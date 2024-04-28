@@ -1,2 +1,2 @@
-# stock_trading_news_alert
+# stock-news-alert
  
